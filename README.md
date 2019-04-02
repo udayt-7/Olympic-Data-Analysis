@@ -3,7 +3,9 @@ The purpose of this project to do an efficient Data Analysis using the dataset o
 This involves transforming the extracted data by preprocessing, cleaning and categorizing the obtained data and then using data analysis, try to find the major patterns which affected the results, and visualize the obtained patterns and relate the outliers with further analysis
 
 The main files are:
-  1. Country Given - 1.What is male-female participation throught the years
+  1. Country Given - 
+  
+                     1.What is male-female participation throught the years
   
                      2.Top 5 dominating Sports
                      
@@ -13,7 +15,9 @@ The main files are:
                      
                      
                      
-  2. Year Given - 1.Top 5 medal winning countries
+  2. Year Given - 
+  
+                  1.Top 5 medal winning countries
   
                   2.Gender distribution in that year
                   
@@ -23,7 +27,9 @@ The main files are:
                                 
                                 3.2.Top 5 players
  
-  3.Sport Given - 1.Top 5 countries winning medals in the sport
+  3.Sport Given - 
+                  
+                  1.Top 5 countries winning medals in the sport
   
                   2.Average age of players through the years
                   
