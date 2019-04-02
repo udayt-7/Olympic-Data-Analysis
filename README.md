@@ -1,6 +1,6 @@
 # Olympic-Data-Analysis
 The purpose of this project to do an efficient Data Analysis using the dataset of 120 years of Olympic data from the web using tools like Numpy, Pandas, Matplotlib and Seaborn. 
-This involves transforming the extracted data by preprocessing, cleaning and categorizing the obtained data and then using data analysis, try to find the major patterns which affected the results, and visualize the obtained patterns and relate the outliers with further analysis
+This involves transforming the extracted data by preprocessing, cleaning and categorizing the obtained data and then using data analysis, try to find the major patterns which affected the results, and visualize the obtained patterns and relate the outliers with further analysis.
 
 The main files are:
   1. Country Given - 
